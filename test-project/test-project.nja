@@ -1,0 +1,29 @@
+{
+  "mainFile": "C:/Users/user/Documents/GitHub/test-project/php4dvd/test_login.py", 
+  "use-tabs": false, 
+  "venv": "C:\\Users\\user\\Documents\\GitHub\\test-project\\ENV\\Scripts\\python.exe", 
+  "relatedProjects": [], 
+  "name": "test-project", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "C:\\Python27\\python.exe", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
